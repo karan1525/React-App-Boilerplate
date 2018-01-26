@@ -1,2 +1,3 @@
 # React-App-Boilerplate
-A repo to help build react applications with webpack and other scripts ejected
+
+##### Build React-Applications with this boilerplate repository <br /> that has SCSS/ SASS setup using the Create-React-App setup.
